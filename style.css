@@ -1,11 +1,18 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+
+}
+p{
+    color: dimgrey;
+}
 ul li{
     list-style: none;
 }
 ul li a{
     text-decoration: none;
     font-size: 20px;
-    font-weight: 700;
-    color: rgb(71, 70, 70);
+    
+    color: dimgray;
     padding: 0 15px;
     
 }
@@ -17,8 +24,8 @@ nav{
     color: orangered;
 }
 h1{
-    font-weight: 100px;
-    font-size: xx-large;
+    
+    font-size: 50px;
 }
 
 .half-width{
