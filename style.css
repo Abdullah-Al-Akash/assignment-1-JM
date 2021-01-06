@@ -95,7 +95,7 @@ margin-left: 10%;
     height: 100px;
 }
 #work-inquiry{
-    weight: 660px;
+    width: 660px;
     height: 250px;
     margin: 10% 15%;
 }
@@ -108,7 +108,7 @@ margin-left: 10%;
 }
 #Chat-Button{
     position:absolute;
-    margin: 5% 10% 20% 45%;
+    margin: 5% 10% 20% 42%;
     
 }
 .footer{
