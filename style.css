@@ -7,6 +7,7 @@ p{
 }
 ul li{
     list-style: none;
+    
 }
 ul li a{
     text-decoration: none;
@@ -81,21 +82,32 @@ margin-left: 10%;
     margin-left: 2%;
     margin-right: 10%;
 }
+#banner{
+    background-image: url("images/banner.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+    margin: 7% 20%;
+    height: 250px;
+    
+}
+.page-size{
+    height: 100px;
+}
 #work-inquiry{
     weight: 660px;
     height: 250px;
     margin: 10% 15%;
 }
 #work-inquiry-color{
-    color: white;
+    color: rgb(252, 252, 252);
     position:absolute;
-    top: 318%;
+    top: 308%;
     left: 25%;
     float: left;
 }
 #Chat-Button{
     position:absolute;
-    top: 322%;
+    top: 315%;
     left: 65%;
     float: left;
 }
