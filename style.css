@@ -1,5 +1,6 @@
 body {
     font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif;
 
 }
 p{
@@ -41,7 +42,7 @@ h1{
     background-image: linear-gradient(180deg, lightsalmon, tomato);
     border-radius: 10px;
     color: white;
-    padding: 10px 20px;
+    padding: 12px 26px;
 }
 .image-width{
     width: 100%;
@@ -99,17 +100,16 @@ margin-left: 10%;
     margin: 10% 15%;
 }
 #work-inquiry-color{
-    color: rgb(252, 252, 252);
+    color: rgb(253, 253, 253);
     position:absolute;
-    top: 308%;
-    left: 25%;
-    float: left;
+    margin: 5% 50% 20% 5% ;
+    
+    
 }
 #Chat-Button{
     position:absolute;
-    top: 315%;
-    left: 65%;
-    float: left;
+    margin: 5% 10% 20% 45%;
+    
 }
 .footer{
     text-align: center;
